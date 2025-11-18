@@ -50,9 +50,9 @@ build/
 coverage/
 .nyc_output/
 
-# Package manager lock files (choose one)
-package-lock.json
-yarn.lock
+# Package manager lock files (optional for themes)
+# package-lock.json
+# yarn.lock
 
 # Local development files
 local-settings.json

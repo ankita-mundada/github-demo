@@ -30,8 +30,7 @@
   "author": "Ankita Mundada",
   "license": "MIT",
   "devDependencies": {
-    "@shopify/cli": "^3.87.4",
-    "@shopify/theme": "^3.87.4",
+    "@shopify/cli": "^3.87.0",
     "prettier": "^3.0.0"
   },
   "engines": {

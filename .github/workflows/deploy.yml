@@ -1,4 +1,4 @@
-name: Shopify Theme Deployment
+name: Shopify Theme CI/CD
 
 on:
   push:
